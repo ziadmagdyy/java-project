@@ -1,0 +1,8 @@
+com\mycompany\e\commerce\Cart.class
+com\mycompany\e\commerce\ElectronicProduct.class
+com\mycompany\e\commerce\ClothingProduct.class
+com\mycompany\e\commerce\BookProduct.class
+com\mycompany\e\commerce\Product.class
+com\mycompany\e\commerce\ECommerce.class
+com\mycompany\e\commerce\Order.class
+com\mycompany\e\commerce\Customer.class
